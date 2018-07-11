@@ -1,0 +1,22 @@
+{
+    "name": "fixframework/assets",
+    "description": "Fix Framework Assets Package",
+    "license": "MIT",
+    "homepage": "https://github.com/fixframework",
+    "keywords": ["fixframework", "fixpackage"],
+    "authors": [
+        {
+            "name": "Cengiz AKCAN",
+            "email": "cengiz@fotografsec.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+	},
+    "autoload": {
+        "psr-4": {
+            "Fix\\": ""
+        }
+    },
+	"minimum-stability": "dev"
+}
