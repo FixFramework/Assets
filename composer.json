@@ -15,7 +15,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "Fix\\Packages\\fixframework\\assets": ""
+            "Fix\\Packages\\fixframework\\assets\\": ""
         }
     },
 	"minimum-stability": "dev"
