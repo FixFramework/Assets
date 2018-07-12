@@ -1,6 +1,6 @@
 <?php
 
-namespace assets;
+namespace fixframework\assets;
 
 use Fix\Support\Support;
 use Fix\Kernel\Kernel;
